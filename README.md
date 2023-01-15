@@ -5,3 +5,5 @@
 [![RisGar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RisGar&theme=ayu-mirage&bg_color=00000000)](https://wakatime.com/@RisGar)
 
 [via 📖 github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/RisGar/RisGar/blob/output/github-contribution-grid-snake.svg)
