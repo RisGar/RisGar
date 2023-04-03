@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,ts,svelte,tailwind,rust,go,crystal,haskell,emacs,vscode" />
+    <img src="https://skillicons.dev/icons?i=elixir,ts,rust,go,svelte,astro,tailwind,tauri,crystal,haskell,emacs,neovim,vscode" />
   </a>
 </p>
 
