@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ocaml,rust,gleam,crystal,haskell,ts,svelte,vscode,neovim,obsidian" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ocaml,rust,gleam,crystal,haskell,ts,svelte,vscode,neovim,obsidian" />
   </a>
 </p>
 
